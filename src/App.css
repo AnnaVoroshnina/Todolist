@@ -1,0 +1,11 @@
+ul{
+    padding: 0;
+    list-style: none;
+}
+.editableSpan {
+    display: flex;
+    column-gap: 10px;
+}
+.editableSpan button {
+    margin-top: 7px;
+}
